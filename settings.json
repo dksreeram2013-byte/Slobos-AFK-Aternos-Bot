@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "PURVIKTHEGOD-cCEh.aternos.me",
-    "port":26176,
+    "port":"26176",
     "version": "",
     "try-creative": false
   },
