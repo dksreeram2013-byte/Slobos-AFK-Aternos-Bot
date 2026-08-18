@@ -8,8 +8,8 @@
   "server": {
     "ip": "PURVIKTHEGOD-cCEh.aternos.me:26176",
     "port":"26176",
-    "version": "",
-    "try-creative": false
+    "version": "26.2",
+    "try-creative": true
   },
   "position": {
     "enabled": true,
