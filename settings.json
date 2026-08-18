@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "PURVIKTHEGOD-cCEh.aternos.me",
+    "ip": "PURVIKTHEGOD-cCEh.aternos.me:26176",
     "port":"26176",
     "version": "",
     "try-creative": false
