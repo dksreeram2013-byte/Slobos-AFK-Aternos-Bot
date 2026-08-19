@@ -2,7 +2,7 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "Slobot00",
-    "password": "maabot",
+    "password": "chalol78",
     "type": "offline"
   },
   "server":"thegodserver" {
@@ -27,10 +27,9 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
-      "repeat-delay": 120,
-      ]
+      "enabled": false,
+      "repeat": false,
+      "repeat-delay": 0
     },
     "chat-log": true,
     "auto-reconnect": true,
