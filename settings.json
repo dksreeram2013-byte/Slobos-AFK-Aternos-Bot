@@ -2,12 +2,12 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "Slobot00",
-    "password": "",
+    "password": "maabot",
     "type": "offline"
   },
-  "server": {
-    "ip": "PURVIKTHEGOD-cCEh.aternos.me:26176",
-    "port":"26176",
+  "server":"thegodserver" {
+    "ip": "sreeramdk.aternos.me:14854",
+    "port":"14854",
     "version": "26.2",
     "try-creative": true
   },
@@ -30,10 +30,6 @@
       "enabled": true,
       "repeat": true,
       "repeat-delay": 120,
-      "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
       ]
     },
     "chat-log": true,
